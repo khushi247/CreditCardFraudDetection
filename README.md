@@ -17,6 +17,8 @@ The primary objective of this project is to build a predictive model that can di
 4. **Model Selection and Training:** We explore the Random Forest Classifier, a popular ensemble learning algorithm known for its robustness and ability to handle complex datasets. The model is trained on the preprocessed data to learn patterns distinguishing fraudulent from legitimate transactions.
 
 5. **Model Evaluation:** Evaluation metrics such as accuracy, precision, recall, and F1-score are used to assess the model's performance. Confusion matrix visualization provides insights into the model's ability to correctly classify transactions.
+## DOWNLOAD THE DATA HERE
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 **Conclusion:**
 
