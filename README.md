@@ -18,14 +18,6 @@ The primary objective of this project is to build a predictive model that can di
 
 5. **Model Evaluation:** Evaluation metrics such as accuracy, precision, recall, and F1-score are used to assess the model's performance. Confusion matrix visualization provides insights into the model's ability to correctly classify transactions.
 
-**How to Use:**
-
-1. Clone the repository to your local machine.
-2. Install the required dependencies specified in the `requirements.txt` file.
-3. Ensure you have the credit card transaction datasets (`fraudTrain.csv` and `fraudTest.csv`) available.
-4. Run the provided Python script to preprocess the data, train the model, and evaluate its performance.
-5. Experiment with different machine learning algorithms, hyperparameters, and preprocessing techniques to further enhance the model's performance.
-
 **Conclusion:**
 
 By leveraging machine learning techniques and data-driven insights, this project aims to contribute to the ongoing efforts in combating credit card fraud. Through comprehensive data preprocessing, feature engineering, and model training, we endeavor to build a robust and reliable fraud detection system capable of safeguarding financial transactions and protecting consumers' interests.
